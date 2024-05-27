@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ivanlmpk
-- 👀 I’m interested in developer jobs
-- 🌱 I’m currently learning C#, .NET, Docker, PostgreSQL, MySQL, SQL Server, Google Cloud, Angular
-- 💞️ I’m looking to collaborate on jobs or freelances
+- 🌱 Full-Stack Developer: C# | ASP.NET | Blazor
 - 📫 How to reach me : ivanlempek@hotmail.com
 
 <!---
